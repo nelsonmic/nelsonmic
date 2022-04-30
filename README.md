@@ -39,3 +39,12 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Kanye west can only do wrong if he starts a war
 
+
+<br />
+<br />
+
+<codersrank-skills-chart username="nelsonmic"></codersrank-skills-chart>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=nelsonmic&show_icons=true&theme=tokyonight" />
+</p>
+
