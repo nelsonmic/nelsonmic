@@ -48,3 +48,4 @@ Here are some ideas to get you started: -->
   <img src="https://github-readme-stats.vercel.app/api?username=nelsonmic&show_icons=true&theme=tokyonight" />
 </p>
 
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=nelsonmic&" alt="nelson michael" /></p>
