@@ -31,10 +31,9 @@
 Here are some ideas to get you started: -->
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning ... Developer Relations and React Native
 - 👯 I’m looking to collaborate on ... Open source documentation
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about ... Technical writing, CSS, Frontend development
+- 💬 Ask me about ... Technical writing, Developer Relations and React Native, CSS, Frontend development
 <!-- - 📫 How to reach me: ... -->
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Kanye west can only do wrong if he starts a war
