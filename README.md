@@ -6,7 +6,7 @@
 
 ### About Me
 
-I'm a passionate Frontend Engineer with a proven track record in developing high-quality web and mobile applications. My proficiency revolves around leveraging JavaScript/TypeScript, React, Next.js, and React Native to deliver outstanding user experiences."
+I'm a passionate Frontend Engineer with a proven track record in developing high-quality web and mobile applications. My proficiency revolves around leveraging JavaScript/TypeScript to deliver outstanding user experiences."
 
 ### What I Do
 
