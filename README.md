@@ -1,46 +1,35 @@
-<h1 align='center'>What's Popping 👋🏾 </h1>
+<<h1 align='center'>Hi, I'm Nelson Arinze Michael 👋</h1>
 
-<p align='center'>I am a Frontend React developer and Technical Writer.</p>
+<h2 align='center'>🚀 Frontend Engineer </h2>
 
+---
 
-<p align='center'>
-<a href="mailto:this.is.thenelsonmichael@gmail.com">
-  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://twitter.com/D_kingnelson">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nelson-michael-b80a9b1a8/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://nelsonmichael.hashnode.dev/"> 
-  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-</a>&nbsp;&nbsp;
-<!-- <a href="https://open.spotify.com/user/31ogqpmlusvhxt2gqykor3rqogim?si=6q7NXqW7SuyW0dVZpNw04Q">
-  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
-</a>&nbsp;&nbsp; -->
-</p>
-<p align='center'>
-<img src="https://gpvc.arturio.dev/nelsonmic" />
-</p>
+### About Me
 
+I'm a passionate Frontend Engineer with a proven track record in developing high-quality web and mobile applications. My proficiency revolves around leveraging JavaScript/TypeScript, React, Next.js, and React Native to deliver outstanding user experiences."
 
-<!-- 
-**iloveteajay/iloveteajay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I Do
 
-Here are some ideas to get you started: -->
+- 👨‍💻 Build and optimize web and mobile applications.
+- 🤝 Collaborate with cross-functional teams to deliver outstanding projects.
+- 📈 Stay updated with industry trends to implement cutting-edge solutions.
+- 🌐 Continuously learn and evolve to enhance my skill set.
 
-<!-- - 🔭 I’m currently working on ... -->
-- 👯 I’m looking to collaborate on ... Open source documentation
-<!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about ... Technical writing, Developer Relations and React Native, CSS, Frontend development
-<!-- - 📫 How to reach me: ... -->
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Kanye west can only do wrong if he starts a war
+### Tech Stack
 
+- 🚀 **JavaScript/TypeScript**
+- ⚛️ **React | Next.js | React Native**
 
-<br />
-<br />
+### Let's Connect
+
+- 📧 [Email](mailto:this.is.thenelsonmichael@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/ja-nelsonmichael/))
+- ✍🏾 [Blog](https://nelsonmichael.hashnode.dev/)
+<!-- - 🌐 [Portfolio](https://your-portfolio-url.com)  -->
+
+Feel free to reach out for collaboration, exciting projects, or just to say hi! 👋
+
+---
 
 <codersrank-skills-chart username="nelsonmic"></codersrank-skills-chart>
 <p align="center"> 
